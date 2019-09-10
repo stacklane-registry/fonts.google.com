@@ -1,7 +1,5 @@
 # fonts.google.com
 
-Applies the correct Content-Security-Policy and includes the `<link>` for [Google Fonts](https://fonts.google.com/).
-
 ## Import
 
 /🔌.yaml
@@ -11,6 +9,8 @@ Applies the correct Content-Security-Policy and includes the `<link>` for [Googl
 ```
 
 ## Tag Usage
+
+Applies the correct Content-Security-Policy and includes the `<link>` for [Google Fonts](https://fonts.google.com/).
 
 Accepts a single parameter, the font `family`:
 
