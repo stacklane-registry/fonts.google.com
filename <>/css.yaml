@@ -1,0 +1,6 @@
+stylesheet:
+  src: https://fonts.googleapis.com/css?family={family}&display=swap
+  
+csp:
+  style-src: https://fonts.googleapis.com/css
+  font-src: https://fonts.gstatic.com
