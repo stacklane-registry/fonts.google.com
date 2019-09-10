@@ -10,7 +10,7 @@ Applies the correct Content-Security-Policy and includes the `<link>` for [Googl
 - https://github.com/stacklane-registry/fonts.google.com.git#!v1.0.1
 ```
 
-## Usage
+## Tag Usage
 
 Accepts a single parameter, the font `family`:
 
