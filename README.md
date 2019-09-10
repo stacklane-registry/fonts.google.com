@@ -1,6 +1,6 @@
 # fonts.google.com
 
-Applies the correct Content-Security-Policy and includes the `<link>` for fonts.google.com.
+Applies the correct Content-Security-Policy and includes the `<link>` for [Google Fonts](https://fonts.google.com/).
 
 ## Import
 
@@ -11,6 +11,8 @@ Applies the correct Content-Security-Policy and includes the `<link>` for fonts.
 ```
 
 ## Usage
+
+Accepts a single parameter, the font `family`:
 
 ```
 <head>
