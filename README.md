@@ -4,7 +4,9 @@
 
 /🔌.yaml
 
+```
 - https://github.com/stacklane-registry/stripe.com.git#!1.0
+```
 
 ## Usage
 
