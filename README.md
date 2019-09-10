@@ -1,5 +1,7 @@
 # fonts.google.com
 
+Applies the correct Content-Security-Policy and includes the <link> for fonts.google.com.
+
 ## Import
 
 /🔌.yaml
