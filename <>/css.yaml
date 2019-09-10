@@ -1,5 +1,5 @@
 stylesheet:
-  src: https://fonts.googleapis.com/css?family={family}&display=swap
+  href: https://fonts.googleapis.com/css?family={family}&display=swap
   
 csp:
   style-src: https://fonts.googleapis.com/css
