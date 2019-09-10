@@ -7,7 +7,7 @@ Applies the correct Content-Security-Policy and includes the `<link>` for fonts.
 /🔌.yaml
 
 ```
-- https://github.com/stacklane-registry/fonts.google.com.git#!1.0
+- https://github.com/stacklane-registry/fonts.google.com.git#!v1.0.1
 ```
 
 ## Usage
