@@ -5,7 +5,7 @@
 /🔌.yaml
 
 ```
-- https://github.com/stacklane-registry/stripe.com.git#!1.0
+- https://github.com/stacklane-registry/fonts.google.com.git#!1.0
 ```
 
 ## Usage
