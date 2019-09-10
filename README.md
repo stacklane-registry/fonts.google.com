@@ -17,7 +17,7 @@ Accepts a single parameter, the font `family`:
 ```
 <head>
 ...
-<fonts.google.com-css family="Leto"/>
+<fonts.google.com-css family="Roboto"/>
 ...
 </head>
 ```
